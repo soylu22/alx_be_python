@@ -1,4 +1,4 @@
-response = input(" What's the weather like today? (sunny/rainy/cold): ")
+response = input("What's the weather like today? (sunny/rainy/cold): ")
 
 if response == "sunny":
     print("Wear a t-shirt and sunglasses.")
